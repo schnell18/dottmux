@@ -1,6 +1,10 @@
 # dottmux
 Manage tmux config and plugins like [dotvim][7].
 
+配置的tmux效果如下：
+
+![tmux demo aminated gif](img/tmux-demo.gif)
+
 ## 安装
 
 ```
